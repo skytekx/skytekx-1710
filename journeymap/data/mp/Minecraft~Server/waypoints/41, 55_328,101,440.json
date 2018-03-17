@@ -1,0 +1,17 @@
+{
+  "id": "41, 55_328,101,440",
+  "name": "41, 55",
+  "icon": "waypoint-normal.png",
+  "x": 328,
+  "y": 101,
+  "z": 440,
+  "r": 161,
+  "g": 155,
+  "b": 181,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

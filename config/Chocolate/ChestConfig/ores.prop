@@ -1,0 +1,15 @@
+iron = minecraft:iron_ingot,5,0,100
+gold = minecraft:gold_ingot,5,0,40
+diamond = minecraft:diamond,3,0,10
+coal = minecraft:coal,8,0,80
+flint = minecraft:flint,6,0,60
+redstone = minecraft:redstone,8,0,50
+sticks = minecraft:stick,6,0,40
+emerald = minecraft:emerald,3,0,20
+knightmetal = TwilightForest:item.knightMetal,1,0,5
+cobalt = TConstruct:materials,5,3,5
+ardite = TConstruct:materials,5,4,5
+manyullyn = TConstruct:materials,5,5,5
+copper = TConstruct:materials,5,9,50
+tin = TConstruct:materials,5,10,50
+aluminum = TConstruct:materials,5,11,25
