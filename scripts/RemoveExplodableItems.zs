@@ -1,7 +1,12 @@
-# IC2:Industrial_TNT
-recipes.removeShaped(<IC2:blockITNT:0>);
-
-# IC2:Nuke
-recipes.removeShaped(<IC2:blockNuke:0>);
-
-
+recipes.removeShaped(<IC2:itemDynamite>);
+recipes.removeShaped(<IC2:itemDynamiteSticky>);
+recipes.removeShaped(<IC2:itemRemote>);
+recipes.removeShaped(<IC2:blockNuke>);
+recipes.removeShaped(<IC2:blockITNT>);
+recipes.removeShaped(<weaponmod:dynamite>);
+recipes.removeShaped(<MineFactoryReloaded:rocket>);
+recipes.removeShaped(<MineFactoryReloaded:rocketlauncher>);
+recipes.removeShaped(<Railcraft:cart.tnt.wood>);
+recipes.removeShaped(<minecraft:tnt_minecart>);
+recipes.removeShaped(<appliedenergistics2:tile.BlockTinyTNT>);
+recipes.removeShaped(<MoreBows2:InfernoBow>);

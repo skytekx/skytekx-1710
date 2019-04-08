@@ -5378,7 +5378,7 @@ exnihilo:witchwater, Witch Water
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
+ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -20560,22 +20560,6 @@ ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Elevator Track Cover
-ThermalDynamics:cover:0, Abyssal Stone Lantern Cover
-ThermalDynamics:cover:0, Bleached Bone Stone Lantern Cover
-ThermalDynamics:cover:0, Blood Stained Stone Lantern Cover
-ThermalDynamics:cover:0, Frostbound Stone Lantern Cover
-ThermalDynamics:cover:0, Infernal Stone Lantern Cover
-ThermalDynamics:cover:0, Nether Stone Lantern Cover
-ThermalDynamics:cover:0, Quarried Stone Lantern Cover
-ThermalDynamics:cover:0, Sandy Stone Lantern Cover
-ThermalDynamics:cover:0, Sandstone Lantern Cover
-ThermalDynamics:cover:0, Stone Lantern Cover
-ThermalDynamics:cover:0, Iron Lantern Cover
-ThermalDynamics:cover:0, Gold Lantern Cover
-ThermalDynamics:cover:0, Copper Lantern Cover
-ThermalDynamics:cover:0, Tin Lantern Cover
-ThermalDynamics:cover:0, Lead Lantern Cover
-ThermalDynamics:cover:0, Steel Lantern Cover
 ThermalDynamics:cover:0, Abyssal Brick Cover
 ThermalDynamics:cover:0, Fitted Abyssal Stone Cover
 ThermalDynamics:cover:0, Abyssal Block Cover
@@ -20662,31 +20646,6 @@ ThermalDynamics:cover:0, Light Blue Metal Platform Cover
 ThermalDynamics:cover:0, Magenta Metal Platform Cover
 ThermalDynamics:cover:0, Orange Metal Platform Cover
 ThermalDynamics:cover:0, White Metal Platform Cover
-ThermalDynamics:cover:0, Infernal Brick Wall Cover
-ThermalDynamics:cover:0, Sandy Brick Wall Cover
-ThermalDynamics:cover:0, Concrete Wall Cover
-ThermalDynamics:cover:0, Snow Wall Cover
-ThermalDynamics:cover:0, Ice Wall Cover
-ThermalDynamics:cover:0, Stone Brick Wall Cover
-ThermalDynamics:cover:0, Mossy Stone Brick Wall Cover
-ThermalDynamics:cover:0, Cracked Stone Brick Wall Cover
-ThermalDynamics:cover:0, Chiseled Stone Brick Wall Cover
-ThermalDynamics:cover:0, Nether Brick Wall Cover
-ThermalDynamics:cover:0, Brick Wall Cover
-ThermalDynamics:cover:0, Sandstone Wall Cover
-ThermalDynamics:cover:0, Chiseled Sandstone Wall Cover
-ThermalDynamics:cover:0, Smooth Sandstone Wall Cover
-ThermalDynamics:cover:0, Obsidian Wall Cover
-ThermalDynamics:cover:0, Frost Bound Brick Wall Cover
-ThermalDynamics:cover:0, Quartz Wall Cover
-ThermalDynamics:cover:0, Chiseled Quartz Wall Cover
-ThermalDynamics:cover:0, Iron Wall Cover
-ThermalDynamics:cover:0, Gold Wall Cover
-ThermalDynamics:cover:0, Diamond Wall Cover
-ThermalDynamics:cover:0, Abyssal Brick Wall Cover
-ThermalDynamics:cover:0, Quarried Brick Wall Cover
-ThermalDynamics:cover:0, Blood Stained Brick Wall Cover
-ThermalDynamics:cover:0, Bleached Bone Brick Wall Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
