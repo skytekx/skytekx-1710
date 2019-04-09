@@ -1,0 +1,9 @@
+recipes.removeShaped(<Railcraft:cart.anchor>);
+recipes.removeShaped(<Railcraft:cart.anchor.admin>);
+recipes.removeShaped(<Railcraft:cart.anchor.personal>);
+recipes.removeShaped(<Railcraft:machine.alpha>);
+recipes.removeShaped(<Railcraft:machine.alpha:2>);
+recipes.removeShaped(<Railcraft:machine.alpha:13>);
+recipes.removeShaped(<Railcraft:machine.alpha:4>);
+recipes.removeShaped(<Railcraft:machine.beta:10>);
+recipes.removeShaped(<MineFactoryReloaded:machine.2:10>);
