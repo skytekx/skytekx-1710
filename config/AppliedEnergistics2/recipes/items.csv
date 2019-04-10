@@ -5378,7 +5378,7 @@ exnihilo:witchwater, Witch Water
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -24929,6 +24929,11 @@ weaponmod:cannonball, Cannon Ball
 weaponmod:dummy, Training Dummy
 weaponmod:gun-stock, Gun Stock
 weaponmod:bullet, Musket Round
+ae2wct:infinityBoosterCard, Infinity Booster Card
+ae2wct:infinityBoosterIcon, item.null.name
+ae2wct:wirelessCraftingTerminal, Wireless Crafting Terminal
+ae2wct:magnetCard, Magnet Card
+ae2wct:boosterBG, item.boosterBG.name
 witchery:ingredient:0, Candelabra
 witchery:ingredient:1, Chalice
 witchery:ingredient:2, Chalice (Filled)
