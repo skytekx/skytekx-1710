@@ -11,7 +11,7 @@ anaglyph3d:false
 advancedOpengl:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:false
 ao:0
 clouds:false
@@ -38,7 +38,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
+showInventoryAchievementHint:false
 mipmapLevels:4
 anisotropicFiltering:1
 streamBytesPerPixel:0.5
@@ -90,6 +90,9 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_key.OpenTerminal:0
+key_key.OpenMagnetFilter:0
+key_key.SwitchMagnetMode:0
 key_key.personalBackpack:48
 key_key.party:33
 key_key.next:45
