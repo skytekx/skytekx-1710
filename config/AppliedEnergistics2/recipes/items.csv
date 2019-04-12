@@ -679,6 +679,12 @@ minecraft:spawn_egg:96, Spawn Mooshroom
 minecraft:spawn_egg:98, Spawn Ocelot
 minecraft:spawn_egg:100, Spawn Horse
 minecraft:spawn_egg:120, Spawn Villager
+minecraft:spawn_egg:6, Spawn Necromantic Teddy
+minecraft:spawn_egg:7, Spawn Night Crawler
+minecraft:spawn_egg:23, Spawn Isaac
+minecraft:spawn_egg:24, Spawn Blood Isaac
+minecraft:spawn_egg:25, Spawn Isaac's Head
+minecraft:spawn_egg:26, Spawn Isaac's Body
 minecraft:spawn_egg:300, Spawn Armadillo
 minecraft:spawn_egg:301, Spawn SandWorm
 minecraft:spawn_egg:302, Spawn Lizard
@@ -3064,7 +3070,7 @@ AWWayofTime:blockCrucible, Incense Crucible
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -7097,6 +7103,10 @@ cfm:nyan, tile.nyan.name
 cfm:pattern, tile.pattern.name
 cfm:yellowGlow, tile.yellowGlow.name
 cfm:whiteGlass, tile.whiteGlass.name
+necromancy:Summoning Altar, Summoning Altar
+necromancy:Altar Building Block, tile.Altar Building Block.name
+necromancy:Sewing Machine, Sewing Machine
+necromancy:skullWall, tile.skullWall.name
 NetherOres:tile.netherores.ore.0:0, Nether Coal Ore
 NetherOres:tile.netherores.ore.0:1, Nether Diamond Ore
 NetherOres:tile.netherores.ore.0:2, Nether Gold Ore
@@ -7280,6 +7290,45 @@ xreliquary:apothecary_mortar, Apothecary Mortar
 xreliquary:lilypad, Lilypad of Fertility
 xreliquary:interdiction_torch, {{!colors.yellow}}Interdiction Torch
 xreliquary:wraith_node, Wraith Node
+Runecraft2:airaltar, Air Altar
+Runecraft2:wateraltar, Water Altar
+Runecraft2:firealtar, Fire Altar
+Runecraft2:earthaltar, Earth Altar
+Runecraft2:mindaltar, Mind Altar
+Runecraft2:bodyaltar, Body Altar
+Runecraft2:cosmicaltar, Cosmic Altar
+Runecraft2:chaosaltar, Chaos Altar
+Runecraft2:naturealtar, Nature Altar
+Runecraft2:lawaltar, Law Altar
+Runecraft2:deathaltar, Death Altar
+Runecraft2:bloodaltar, Blood Altar
+Runecraft2:astralaltar, Astral Altar
+Runecraft2:airrunealtar, tile.airrunealtar.name
+Runecraft2:waterrunealtar, tile.waterrunealtar.name
+Runecraft2:firerunealtar, tile.firerunealtar.name
+Runecraft2:earthrunealtar, tile.earthrunealtar.name
+Runecraft2:mindrunealtar, tile.mindrunealtar.name
+Runecraft2:bodyrunealtar, tile.bodyrunealtar.name
+Runecraft2:cosmicrunealtar, tile.cosmicrunealtar.name
+Runecraft2:chaosrunealtar, tile.chaosrunealtar.name
+Runecraft2:naturerunealtar, tile.naturerunealtar.name
+Runecraft2:lawrunealtar, tile.lawrunealtar.name
+Runecraft2:deathrunealtar, tile.deathrunealtar.name
+Runecraft2:bloodrunealtar, tile.bloodrunealtar.name
+Runecraft2:astralrunealtar, tile.astralrunealtar.name
+Runecraft2:copperore, Copper Ore
+Runecraft2:tinore, Tin Ore
+Runecraft2:adamantiteore, Adamantite Ore
+Runecraft2:coalore, Coal
+Runecraft2:goldore, Gold Ore
+Runecraft2:ironore, Iron Ore
+Runecraft2:mithrilore, Mithril Ore
+Runecraft2:runiteore, Runite Ore
+Runecraft2:silverore, Silver Ore
+Runecraft2:runeessence, Rune Essence
+Runecraft2:pureessence, Pure Essence
+Runecraft2:rcfurnace, tile.null.name
+Runecraft2:anvil, tile.null.name
 secretroomsmod:TorchLever, Torch Lever
 secretroomsmod:OneWayGlass, One-Way Glass
 secretroomsmod:CamoGate, Secret Gate
@@ -18550,6 +18599,10 @@ kloudspacekloudgear:kloudspacekloudgearenchantedSteelBoots, Enchanted Steel Boot
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelChest, Enchanted Steel Chestpiece
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelHelm, Enchanted Steel Helmet
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelLeggings, Enchanted Steel Leggings
+lovemod:weddingRingItem:0, Wedding Ring
+lovemod:proposalRingItem:0, Engagement Ring
+lovemod:proposalRingItem:1, Engagement Ring
+lovemod:divorcePapersItem, Divorce Papers
 malisisdoors:item.door_acacia, Acacia Door
 malisisdoors:item.door_birch, Birch Door
 malisisdoors:item.door_dark_oak, Dark Oak Door
@@ -18728,6 +18781,75 @@ cfm:ItemSuperSoapyWater, Super Soapy Water
 cfm:ItemRecipeBook, Recipe Book
 cfm:ItemCrayfish, Crayfish Head (Secret Item)
 cfm:ItemDollar, item.itemmoney.name
+necromancy:ItemNecromancy:0, Bone Needle
+necromancy:ItemNecromancy:1, Soul in a Jar
+necromancy:ItemNecromancy:2, Jar of Blood
+necromancy:ItemNecromancy:3, Brain on a stick
+necromancy:Necronomicon, Necronomicon
+necromancy:ItemScythe, Scythe
+necromancy:ItemScytheBone, Bone Scythe
+necromancy:BucketBlood, Bucket of Blood
+necromancy:Organs:0, Brains
+necromancy:Organs:1, Heart
+necromancy:Organs:2, Muscle
+necromancy:Organs:3, Lungs
+necromancy:Organs:4, Skin
+necromancy:BodyParts:0, Cow Torso
+necromancy:BodyParts:1, Cow Head
+necromancy:BodyParts:2, Cow Arm
+necromancy:BodyParts:3, Cow Legs
+necromancy:BodyParts:4, Creeper Torso
+necromancy:BodyParts:5, Creeper Legs
+necromancy:BodyParts:6, Enderman Head
+necromancy:BodyParts:7, Enderman Torso
+necromancy:BodyParts:8, Enderman Arm
+necromancy:BodyParts:9, Enderman Legs
+necromancy:BodyParts:10, Pig Head
+necromancy:BodyParts:11, Pig Torso
+necromancy:BodyParts:12, Pig Arm
+necromancy:BodyParts:13, Pig Legs
+necromancy:BodyParts:14, Pigzombie Head
+necromancy:BodyParts:15, Pigzombie Torso
+necromancy:BodyParts:16, Pigzombie Arm
+necromancy:BodyParts:17, Pigzombie Legs
+necromancy:BodyParts:18, Skeleton Torso
+necromancy:BodyParts:19, Skeleton Arm
+necromancy:BodyParts:20, Skeleton Legs
+necromancy:BodyParts:21, Spider Head
+necromancy:BodyParts:22, Spider Torso
+necromancy:BodyParts:23, Spider Legs
+necromancy:BodyParts:24, Zombie Torso
+necromancy:BodyParts:25, Zombie Arm
+necromancy:BodyParts:26, Zombie Legs
+necromancy:BodyParts:27, Chicken Head
+necromancy:BodyParts:28, Chicken Torso
+necromancy:BodyParts:29, Chicken Arm
+necromancy:BodyParts:30, Chicken Legs
+necromancy:BodyParts:31, Villager Head
+necromancy:BodyParts:32, Villager Torso
+necromancy:BodyParts:33, Villager Arm
+necromancy:BodyParts:34, Villager Legs
+necromancy:BodyParts:35, Witch Head
+necromancy:BodyParts:36, Witch Torso
+necromancy:BodyParts:37, Witch Arm
+necromancy:BodyParts:38, Witch Legs
+necromancy:BodyParts:39, Squid Head
+necromancy:BodyParts:40, Squid Torso
+necromancy:BodyParts:41, Squid Legs
+necromancy:BodyParts:42, CaveSpider Head
+necromancy:BodyParts:43, CaveSpider Torso
+necromancy:BodyParts:44, CaveSpider Legs
+necromancy:BodyParts:45, Sheep Head
+necromancy:BodyParts:46, Sheep Torso
+necromancy:BodyParts:47, Sheep Arm
+necromancy:BodyParts:48, Sheep Legs
+necromancy:BodyParts:49, IronGolem Head
+necromancy:BodyParts:50, IronGolem Torso
+necromancy:BodyParts:51, IronGolem Arm
+necromancy:BodyParts:52, IronGolem Legs
+necromancy:BodyParts:53, Wolf Head
+necromancy:ItemIsaacsHead, Isaac's Head
+necromancy:NecroSpawner, Necromancy Spawner
 OpenBlocks:hangglider, Hang Glider
 OpenBlocks:generic:0, Glider Wing
 OpenBlocks:generic:1, Beam
@@ -20421,6 +20543,90 @@ xreliquary:void_tear_empty, Empty Void Tear
 xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
 xreliquary:witherless_rose, Witherless Rose
 xreliquary:potion, Condensed Potion
+Runecraft2:item.airrune:0, Air Rune
+Runecraft2:item.armadylrune:0, Armadyl Rune
+Runecraft2:item.astralrune:0, Astral Rune
+Runecraft2:item.bloodrune:0, Blood Rune
+Runecraft2:item.bodyrune:0, Body Rune
+Runecraft2:item.chaosrune:0, Chaos Rune
+Runecraft2:item.cosmicrune:0, Cosmic Rune
+Runecraft2:item.deathrune:0, Death Rune
+Runecraft2:item.dustrune:0, Dust Rune
+Runecraft2:item.earthrune:0, Earth Rune
+Runecraft2:item.firerune:0, Fire Rune
+Runecraft2:item.lavarune:0, Lava Rune
+Runecraft2:item.lawrune:0, Law Rune
+Runecraft2:item.mindrune:0, Mind Rune
+Runecraft2:item.mistrune:0, Mist Rune
+Runecraft2:item.mudrune:0, Mud Rune
+Runecraft2:item.naturerune:0, Nature Rune
+Runecraft2:item.smokerune:0, Smoke Rune
+Runecraft2:item.soulrune:0, Soul Rune
+Runecraft2:item.steamrune:0, Steam Rune
+Runecraft2:item.waterrune:0, Water Rune
+Runecraft2:item.runeessence:0, Rune Essence
+Runecraft2:item.pureessence:0, Pure Essence
+Runecraft2:item.airtalisman, Air Talisman
+Runecraft2:item.watertalisman, Water Talisman
+Runecraft2:item.firetalisman, Fire Talisman
+Runecraft2:item.earthtalisman, Earth Talisman
+Runecraft2:item.mindtalisman, Mind Talisman
+Runecraft2:item.bodytalisman, Body Talisman
+Runecraft2:item.cosmictalisman, Cosmic Talisman
+Runecraft2:item.chaostalisman, Chaos Talisman
+Runecraft2:item.naturetalisman, Nature Talisman
+Runecraft2:item.lawtalisman, Law Talisman
+Runecraft2:item.deathtalisman, Death Talisman
+Runecraft2:item.bloodtalisman, Blood Talisman
+Runecraft2:item.astraltalisman, Astral Talisman
+Runecraft2:item.airtalismanstaff, item.airtalismanstaff.name
+Runecraft2:item.watertalismanstaff, item.watertalismanstaff.name
+Runecraft2:item.firetalismanstaff, item.firetalismanstaff.name
+Runecraft2:item.earthtalismanstaff, item.earthtalismanstaff.name
+Runecraft2:item.mindtalismanstaff, item.mindtalismanstaff.name
+Runecraft2:item.bodytalismanstaff, item.bodytalismanstaff.name
+Runecraft2:item.cosmictalismanstaff, item.cosmictalismanstaff.name
+Runecraft2:item.chaostalismanstaff, item.chaostalismanstaff.name
+Runecraft2:item.naturetalismanstaff, item.naturetalismanstaff.name
+Runecraft2:item.lawtalismanstaff, item.lawtalismanstaff.name
+Runecraft2:item.deathtalismanstaff, item.deathtalismanstaff.name
+Runecraft2:item.bloodtalismanstaff, item.bloodtalismanstaff.name
+Runecraft2:item.adamantiteore, Adamantite Ore
+Runecraft2:item.coalore, Coal Ore
+Runecraft2:item.copperore, Copper Ore
+Runecraft2:item.goldore, Gold Ore
+Runecraft2:item.ironore, Iron Ore
+Runecraft2:item.mithrilore, Mithril Ore
+Runecraft2:item.runiteore, Runite Ore
+Runecraft2:item.silverore, Silver Ore
+Runecraft2:item.tinore, Tin Ore
+Runecraft2:item.bronzebar, item.bronzebar.name
+Runecraft2:item.ironbar, item.ironbar.name
+Runecraft2:item.silverbar, item.silverbar.name
+Runecraft2:item.steelbar, item.steelbar.name
+Runecraft2:item.goldbar, item.goldbar.name
+Runecraft2:item.mithrilbar, item.mithrilbar.name
+Runecraft2:item.adamantbar, item.adamantbar.name
+Runecraft2:item.runebar, item.runebar.name
+Runecraft2:item.spellbook, Spellbook
+Runecraft2:item.staff, Staff
+Runecraft2:item.staffofair, Staff of Air
+Runecraft2:item.staffofwater, Staff of Water
+Runecraft2:item.staffofearth, Staff of Earth
+Runecraft2:item.staffoffire, Staff of Fire
+Runecraft2:item.bronzehatchet, item.bronzehatchet.name
+Runecraft2:item.ironhatchet, item.ironhatchet.name
+Runecraft2:item.steelhatchet, item.steelhatchet.name
+Runecraft2:item.blackhatchet, item.blackhatchet.name
+Runecraft2:item.mithrilhatchet, item.mithrilhatchet.name
+Runecraft2:item.adamanthatchet, item.adamanthatchet.name
+Runecraft2:item.runehatchet, item.runehatchet.name
+Runecraft2:item.bronzepickaxe, item.bronzepickaxe.name
+Runecraft2:item.ironpickaxe, item.ironpickaxe.name
+Runecraft2:item.steelpickaxe, item.steelpickaxe.name
+Runecraft2:item.mithrilpickaxe, item.mithrilpickaxe.name
+Runecraft2:item.adamantpickaxe, item.adamantpickaxe.name
+Runecraft2:item.runepickaxe, item.runepickaxe.name
 secretroomsmod:SecretWoodenDoorItem, Secret Wooden Door
 secretroomsmod:SecretWoodenIronItem, Secret Iron Door
 secretroomsmod:CamoflaugePaste, Camouflage Paste
