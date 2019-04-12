@@ -33,6 +33,7 @@ ofAnimatedTextures:true
 ofAnimatedItems:true
 ofRainSplash:true
 ofLagometer:false
+ofShowFps:false
 ofAutoSaveTicks:4000
 ofBetterGrass:3
 ofConnectedTextures:2
@@ -40,6 +41,7 @@ ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
+ofVignette:0
 ofChunkUpdates:1
 ofChunkLoading:0
 ofChunkUpdatesDynamic:false
@@ -58,6 +60,8 @@ ofCustomSky:true
 ofShowCapes:true
 ofNaturalTextures:false
 ofLazyChunkLoading:false
+ofDynamicFov:true
+ofDynamicLights:3
 ofFullscreenMode:Default
 ofFastMath:false
 ofFastRender:false

@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:4
+renderDistance:8
 guiScale:3
 particles:2
 bobView:false
@@ -85,6 +85,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_of.key.zoom:29
 key_ALT Key:56
 key_Boost Key:29
 key_Mode Switch Key:50
@@ -101,6 +102,8 @@ key_Tool Increase:201
 key_Tool Decrease:209
 key_key.openCompendium:25
 key_key.toggleMagnetism:21
+key_Shoot Normal Tear:33
+key_Shoot Blood Tear:34
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
@@ -113,17 +116,21 @@ key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
 key_key.betterstorage.backpackOpen:48
 key_key.betterstorage.drinkingHelmet:33
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_key.tarmor:24
+key_key.tgoggles:34
+key_key.tbelt:48
+key_key.tzoom:44
 key_key.placeItem:25
 key_key.toolConfig:46
 key_key.toolProfileChange:43
 key_key.toggleFlight:0
 key_key.dragon.flyUp:19
 key_key.dragon.flyDown:33
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
 key_Glider Toggle:34
 key_Sound Locator:38
 key_Night Vision:25
@@ -133,10 +140,6 @@ key_Speed:0
 key_Jump:0
 key_Yeta Wrench Mode:21
 key_Toggle Electromagnet:0
-key_key.tarmor:24
-key_key.tgoggles:34
-key_key.tbelt:48
-key_key.tzoom:44
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
@@ -144,6 +147,12 @@ key_invtweaks.key.sort:19
 key_key.fart.desc:33
 key_key.secretroomsmod.oneWayface:43
 key_key.craftingGrid:46
+key_key.ShapeGroups:46
+key_key.SpellBookNext:45
+key_key.SpellBookPrev:44
+key_key.AuraCustomization:48
+key_key.ToggleManaDisplay:24
+key_key.ActivateAffinityAbility:45
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
 key_railcraft.keybind.loco.faster:52
