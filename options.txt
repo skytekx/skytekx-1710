@@ -15,8 +15,8 @@ difficulty:1
 fancyGraphics:false
 ao:0
 clouds:false
-resourcePacks:[]
-lastServer:
+resourcePacks:["skytex.zip"]
+lastServer:hex.ts3.party
 lang:en_US
 chatVisibility:0
 chatColors:true
@@ -100,7 +100,6 @@ key_key.next:45
 key_key.prev:46
 key_Tool Increase:201
 key_Tool Decrease:209
-key_key.openCompendium:25
 key_key.toggleMagnetism:21
 key_Shoot Normal Tear:33
 key_Shoot Blood Tear:34
@@ -129,8 +128,6 @@ key_key.placeItem:25
 key_key.toolConfig:46
 key_key.toolProfileChange:43
 key_key.toggleFlight:0
-key_key.dragon.flyUp:19
-key_key.dragon.flyDown:33
 key_Glider Toggle:34
 key_Sound Locator:38
 key_Night Vision:25
