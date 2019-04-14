@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:false
 ao:0
 clouds:false
-resourcePacks:["skytex-splash-text.zip"]
+resourcePacks:[]
 lastServer:
 lang:en_US
 chatVisibility:0

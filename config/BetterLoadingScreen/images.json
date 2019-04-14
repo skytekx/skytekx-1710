@@ -1,6 +1,6 @@
 [
   {
-    "resourceLocation": "textures/gui/title/skytekx.png",
+    "resourceLocation": "betterloadingscreen:textures/loading.png",
     "positionType": "CENTER",
     "type": "STATIC",
     "texture": {
@@ -47,7 +47,7 @@
     "comment": "Text at the bottom of the screen"
   },
   {
-    "resourceLocation": "textures/gui/title/skytekx2.png",
+    "resourceLocation": "betterloadingscreen:textures/loading.png",
     "positionType": "CENTER",
     "type": "STATIC",
     "texture": {
@@ -107,7 +107,7 @@
   {
     "resourceLocation": "",
     "type": "CLEAR_COLOUR",
-    "colour": "ffffff",
+    "colour": "000000",
     "comment": "Background colour"
   }
 ]
