@@ -3070,7 +3070,7 @@ AWWayofTime:blockCrucible, Incense Crucible
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entity Device)
+ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6955,6 +6955,7 @@ IronChest:BlockIronChest:7, DirtChest 9000!
 JABBA:barrel, Better Barrel
 kloudspacekloudgear:kloudspacekloudgearblockKloudOre, tile.blockKloudOre.name
 kloudspacekloudgear:kloudspacekloudgearhexibiscus, Hexibiscus
+lootbags:loot_recycler, Loot Recycler
 malisisdoors:door_acacia, Acacia Door
 malisisdoors:door_birch, Birch Door
 malisisdoors:door_dark_oak, Dark Oak Door
@@ -7290,45 +7291,6 @@ xreliquary:apothecary_mortar, Apothecary Mortar
 xreliquary:lilypad, Lilypad of Fertility
 xreliquary:interdiction_torch, {{!colors.yellow}}Interdiction Torch
 xreliquary:wraith_node, Wraith Node
-Runecraft2:airaltar, Air Altar
-Runecraft2:wateraltar, Water Altar
-Runecraft2:firealtar, Fire Altar
-Runecraft2:earthaltar, Earth Altar
-Runecraft2:mindaltar, Mind Altar
-Runecraft2:bodyaltar, Body Altar
-Runecraft2:cosmicaltar, Cosmic Altar
-Runecraft2:chaosaltar, Chaos Altar
-Runecraft2:naturealtar, Nature Altar
-Runecraft2:lawaltar, Law Altar
-Runecraft2:deathaltar, Death Altar
-Runecraft2:bloodaltar, Blood Altar
-Runecraft2:astralaltar, Astral Altar
-Runecraft2:airrunealtar, tile.airrunealtar.name
-Runecraft2:waterrunealtar, tile.waterrunealtar.name
-Runecraft2:firerunealtar, tile.firerunealtar.name
-Runecraft2:earthrunealtar, tile.earthrunealtar.name
-Runecraft2:mindrunealtar, tile.mindrunealtar.name
-Runecraft2:bodyrunealtar, tile.bodyrunealtar.name
-Runecraft2:cosmicrunealtar, tile.cosmicrunealtar.name
-Runecraft2:chaosrunealtar, tile.chaosrunealtar.name
-Runecraft2:naturerunealtar, tile.naturerunealtar.name
-Runecraft2:lawrunealtar, tile.lawrunealtar.name
-Runecraft2:deathrunealtar, tile.deathrunealtar.name
-Runecraft2:bloodrunealtar, tile.bloodrunealtar.name
-Runecraft2:astralrunealtar, tile.astralrunealtar.name
-Runecraft2:copperore, Copper Ore
-Runecraft2:tinore, Tin Ore
-Runecraft2:adamantiteore, Adamantite Ore
-Runecraft2:coalore, Coal
-Runecraft2:goldore, Gold Ore
-Runecraft2:ironore, Iron Ore
-Runecraft2:mithrilore, Mithril Ore
-Runecraft2:runiteore, Runite Ore
-Runecraft2:silverore, Silver Ore
-Runecraft2:runeessence, Rune Essence
-Runecraft2:pureessence, Pure Essence
-Runecraft2:rcfurnace, tile.null.name
-Runecraft2:anvil, tile.null.name
 secretroomsmod:TorchLever, Torch Lever
 secretroomsmod:OneWayGlass, One-Way Glass
 secretroomsmod:CamoGate, Secret Gate
@@ -18599,6 +18561,11 @@ kloudspacekloudgear:kloudspacekloudgearenchantedSteelBoots, Enchanted Steel Boot
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelChest, Enchanted Steel Chestpiece
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelHelm, Enchanted Steel Helmet
 kloudspacekloudgear:kloudspacekloudgearenchantedSteelLeggings, Enchanted Steel Leggings
+lootbags:lootbag:0, §fCommon Lootbag
+lootbags:lootbag:1, §aUncommon Lootbag
+lootbags:lootbag:2, §9Rare Lootbag
+lootbags:lootbag:3, §dEpic Lootbag
+lootbags:lootbag:4, §6Legendary Lootbag
 lovemod:weddingRingItem:0, Wedding Ring
 lovemod:proposalRingItem:0, Engagement Ring
 lovemod:proposalRingItem:1, Engagement Ring
@@ -20543,90 +20510,6 @@ xreliquary:void_tear_empty, Empty Void Tear
 xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
 xreliquary:witherless_rose, Witherless Rose
 xreliquary:potion, Condensed Potion
-Runecraft2:item.airrune:0, Air Rune
-Runecraft2:item.armadylrune:0, Armadyl Rune
-Runecraft2:item.astralrune:0, Astral Rune
-Runecraft2:item.bloodrune:0, Blood Rune
-Runecraft2:item.bodyrune:0, Body Rune
-Runecraft2:item.chaosrune:0, Chaos Rune
-Runecraft2:item.cosmicrune:0, Cosmic Rune
-Runecraft2:item.deathrune:0, Death Rune
-Runecraft2:item.dustrune:0, Dust Rune
-Runecraft2:item.earthrune:0, Earth Rune
-Runecraft2:item.firerune:0, Fire Rune
-Runecraft2:item.lavarune:0, Lava Rune
-Runecraft2:item.lawrune:0, Law Rune
-Runecraft2:item.mindrune:0, Mind Rune
-Runecraft2:item.mistrune:0, Mist Rune
-Runecraft2:item.mudrune:0, Mud Rune
-Runecraft2:item.naturerune:0, Nature Rune
-Runecraft2:item.smokerune:0, Smoke Rune
-Runecraft2:item.soulrune:0, Soul Rune
-Runecraft2:item.steamrune:0, Steam Rune
-Runecraft2:item.waterrune:0, Water Rune
-Runecraft2:item.runeessence:0, Rune Essence
-Runecraft2:item.pureessence:0, Pure Essence
-Runecraft2:item.airtalisman, Air Talisman
-Runecraft2:item.watertalisman, Water Talisman
-Runecraft2:item.firetalisman, Fire Talisman
-Runecraft2:item.earthtalisman, Earth Talisman
-Runecraft2:item.mindtalisman, Mind Talisman
-Runecraft2:item.bodytalisman, Body Talisman
-Runecraft2:item.cosmictalisman, Cosmic Talisman
-Runecraft2:item.chaostalisman, Chaos Talisman
-Runecraft2:item.naturetalisman, Nature Talisman
-Runecraft2:item.lawtalisman, Law Talisman
-Runecraft2:item.deathtalisman, Death Talisman
-Runecraft2:item.bloodtalisman, Blood Talisman
-Runecraft2:item.astraltalisman, Astral Talisman
-Runecraft2:item.airtalismanstaff, item.airtalismanstaff.name
-Runecraft2:item.watertalismanstaff, item.watertalismanstaff.name
-Runecraft2:item.firetalismanstaff, item.firetalismanstaff.name
-Runecraft2:item.earthtalismanstaff, item.earthtalismanstaff.name
-Runecraft2:item.mindtalismanstaff, item.mindtalismanstaff.name
-Runecraft2:item.bodytalismanstaff, item.bodytalismanstaff.name
-Runecraft2:item.cosmictalismanstaff, item.cosmictalismanstaff.name
-Runecraft2:item.chaostalismanstaff, item.chaostalismanstaff.name
-Runecraft2:item.naturetalismanstaff, item.naturetalismanstaff.name
-Runecraft2:item.lawtalismanstaff, item.lawtalismanstaff.name
-Runecraft2:item.deathtalismanstaff, item.deathtalismanstaff.name
-Runecraft2:item.bloodtalismanstaff, item.bloodtalismanstaff.name
-Runecraft2:item.adamantiteore, Adamantite Ore
-Runecraft2:item.coalore, Coal Ore
-Runecraft2:item.copperore, Copper Ore
-Runecraft2:item.goldore, Gold Ore
-Runecraft2:item.ironore, Iron Ore
-Runecraft2:item.mithrilore, Mithril Ore
-Runecraft2:item.runiteore, Runite Ore
-Runecraft2:item.silverore, Silver Ore
-Runecraft2:item.tinore, Tin Ore
-Runecraft2:item.bronzebar, item.bronzebar.name
-Runecraft2:item.ironbar, item.ironbar.name
-Runecraft2:item.silverbar, item.silverbar.name
-Runecraft2:item.steelbar, item.steelbar.name
-Runecraft2:item.goldbar, item.goldbar.name
-Runecraft2:item.mithrilbar, item.mithrilbar.name
-Runecraft2:item.adamantbar, item.adamantbar.name
-Runecraft2:item.runebar, item.runebar.name
-Runecraft2:item.spellbook, Spellbook
-Runecraft2:item.staff, Staff
-Runecraft2:item.staffofair, Staff of Air
-Runecraft2:item.staffofwater, Staff of Water
-Runecraft2:item.staffofearth, Staff of Earth
-Runecraft2:item.staffoffire, Staff of Fire
-Runecraft2:item.bronzehatchet, item.bronzehatchet.name
-Runecraft2:item.ironhatchet, item.ironhatchet.name
-Runecraft2:item.steelhatchet, item.steelhatchet.name
-Runecraft2:item.blackhatchet, item.blackhatchet.name
-Runecraft2:item.mithrilhatchet, item.mithrilhatchet.name
-Runecraft2:item.adamanthatchet, item.adamanthatchet.name
-Runecraft2:item.runehatchet, item.runehatchet.name
-Runecraft2:item.bronzepickaxe, item.bronzepickaxe.name
-Runecraft2:item.ironpickaxe, item.ironpickaxe.name
-Runecraft2:item.steelpickaxe, item.steelpickaxe.name
-Runecraft2:item.mithrilpickaxe, item.mithrilpickaxe.name
-Runecraft2:item.adamantpickaxe, item.adamantpickaxe.name
-Runecraft2:item.runepickaxe, item.runepickaxe.name
 secretroomsmod:SecretWoodenDoorItem, Secret Wooden Door
 secretroomsmod:SecretWoodenIronItem, Secret Iron Door
 secretroomsmod:CamoflaugePaste, Camouflage Paste
@@ -21388,22 +21271,6 @@ ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Steel Anvil Cover
 ThermalDynamics:cover:0, Elevator Track Cover
-ThermalDynamics:cover:0, Abyssal Stone Lantern Cover
-ThermalDynamics:cover:0, Bleached Bone Stone Lantern Cover
-ThermalDynamics:cover:0, Blood Stained Stone Lantern Cover
-ThermalDynamics:cover:0, Frostbound Stone Lantern Cover
-ThermalDynamics:cover:0, Infernal Stone Lantern Cover
-ThermalDynamics:cover:0, Nether Stone Lantern Cover
-ThermalDynamics:cover:0, Quarried Stone Lantern Cover
-ThermalDynamics:cover:0, Sandy Stone Lantern Cover
-ThermalDynamics:cover:0, Sandstone Lantern Cover
-ThermalDynamics:cover:0, Stone Lantern Cover
-ThermalDynamics:cover:0, Iron Lantern Cover
-ThermalDynamics:cover:0, Gold Lantern Cover
-ThermalDynamics:cover:0, Copper Lantern Cover
-ThermalDynamics:cover:0, Tin Lantern Cover
-ThermalDynamics:cover:0, Lead Lantern Cover
-ThermalDynamics:cover:0, Steel Lantern Cover
 ThermalDynamics:cover:0, Abyssal Brick Cover
 ThermalDynamics:cover:0, Fitted Abyssal Stone Cover
 ThermalDynamics:cover:0, Abyssal Block Cover
@@ -21490,31 +21357,6 @@ ThermalDynamics:cover:0, Light Blue Metal Platform Cover
 ThermalDynamics:cover:0, Magenta Metal Platform Cover
 ThermalDynamics:cover:0, Orange Metal Platform Cover
 ThermalDynamics:cover:0, White Metal Platform Cover
-ThermalDynamics:cover:0, Infernal Brick Wall Cover
-ThermalDynamics:cover:0, Sandy Brick Wall Cover
-ThermalDynamics:cover:0, Concrete Wall Cover
-ThermalDynamics:cover:0, Snow Wall Cover
-ThermalDynamics:cover:0, Ice Wall Cover
-ThermalDynamics:cover:0, Stone Brick Wall Cover
-ThermalDynamics:cover:0, Mossy Stone Brick Wall Cover
-ThermalDynamics:cover:0, Cracked Stone Brick Wall Cover
-ThermalDynamics:cover:0, Chiseled Stone Brick Wall Cover
-ThermalDynamics:cover:0, Nether Brick Wall Cover
-ThermalDynamics:cover:0, Brick Wall Cover
-ThermalDynamics:cover:0, Sandstone Wall Cover
-ThermalDynamics:cover:0, Chiseled Sandstone Wall Cover
-ThermalDynamics:cover:0, Smooth Sandstone Wall Cover
-ThermalDynamics:cover:0, Obsidian Wall Cover
-ThermalDynamics:cover:0, Frost Bound Brick Wall Cover
-ThermalDynamics:cover:0, Quartz Wall Cover
-ThermalDynamics:cover:0, Chiseled Quartz Wall Cover
-ThermalDynamics:cover:0, Iron Wall Cover
-ThermalDynamics:cover:0, Gold Wall Cover
-ThermalDynamics:cover:0, Diamond Wall Cover
-ThermalDynamics:cover:0, Abyssal Brick Wall Cover
-ThermalDynamics:cover:0, Quarried Brick Wall Cover
-ThermalDynamics:cover:0, Blood Stained Brick Wall Cover
-ThermalDynamics:cover:0, Bleached Bone Brick Wall Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
 ThermalDynamics:cover:0, Strengthened Glass Cover
