@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:false
 ao:0
 clouds:false
-resourcePacks:["skytex.zip"]
+resourcePacks:["skytex"]
 lastServer:hex.ts3.party
 lang:en_US
 chatVisibility:0
