@@ -3,9 +3,9 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:6
 guiScale:3
-particles:2
+particles:0
 bobView:false
 anaglyph3d:false
 advancedOpengl:false
@@ -16,7 +16,7 @@ fancyGraphics:false
 ao:0
 clouds:false
 resourcePacks:["skytex"]
-lastServer:hex.ts3.party
+lastServer:127.0.0.1
 lang:en_US
 chatVisibility:0
 chatColors:true
@@ -100,6 +100,7 @@ key_key.next:45
 key_key.prev:46
 key_Tool Increase:201
 key_Tool Decrease:209
+key_key.openCompendium:25
 key_key.toggleMagnetism:21
 key_Shoot Normal Tear:33
 key_Shoot Blood Tear:34
@@ -109,6 +110,8 @@ key_openblocks.keybind.vario_vol_down:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
 key_key.portaitreposition:52
+key_keys.armourersworkshop.equipmentWardrobe:25
+key_keys.armourersworkshop.undo:44
 key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
@@ -152,6 +155,11 @@ key_key.ToggleManaDisplay:24
 key_key.ActivateAffinityAbility:45
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
+key_Teleport:35
+key_Shoot fireballs:33
+key_Blow up yourself:22
+key_Shoot explosive fireballs:48
+key_Throw potions:25
 key_railcraft.keybind.loco.faster:52
 key_railcraft.keybind.loco.slower:51
 key_railcraft.keybind.loco.mode:50
